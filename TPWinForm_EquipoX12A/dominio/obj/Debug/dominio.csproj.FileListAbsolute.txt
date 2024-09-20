@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Clon\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\bin\Debug\dominio.dll
+C:\Users\PC\Desktop\Clon\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\bin\Debug\dominio.pdb
+C:\Users\PC\Desktop\Clon\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Clon\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Clon\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\obj\Debug\dominio.dll
+C:\Users\PC\Desktop\Clon\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\obj\Debug\dominio.pdb
+C:\Users\PC\Desktop\RepoNuevo\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\bin\Debug\dominio.dll
+C:\Users\PC\Desktop\RepoNuevo\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\bin\Debug\dominio.pdb
+C:\Users\PC\Desktop\RepoNuevo\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\RepoNuevo\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\RepoNuevo\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\obj\Debug\dominio.dll
+C:\Users\PC\Desktop\RepoNuevo\tp-winform-equipo-12A\TPWinForm_EquipoX12A\dominio\obj\Debug\dominio.pdb
